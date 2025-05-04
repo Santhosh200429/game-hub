@@ -16,7 +16,7 @@
 
 ## 🚀 Live Demo
 
-> [**Game Hub Website**](https://game-hub-lime-five-28.vercel.app) — _Step into the world of games!_
+> [**Game Hub Website**](https://gamehub-khaki.vercel.app) — _Step into the world of games!_
 
 ---
 
